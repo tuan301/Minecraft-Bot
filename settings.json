@@ -1,0 +1,49 @@
+{
+  "bot-account": {
+    "username": "okokokokokokokok",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "Sinhtonnetwork.aternos.me",
+    "port": 41539,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "dit me server",
+        "m bt bo m la ai k ",
+        "bo t la trum khu nay",
+        "bo may dep trai"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
